@@ -12,6 +12,6 @@ If these links are unavailable, please don't hesitate to contact me to update li
 Download the codes in this repository. To evaluate your code, please change the feature path in the `evaluation_res_duke_fast.m` and run it.
 
 # Citation
-Duke dataset [Bibtex](https://scholar.googleusercontent.com/scholar.bib?q=info:PHHb6A3iwQMJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWMI1BUFiIhDrN2aC-h-38M6cxJYhOAGh&scisf=4&ct=citation&cd=-1&hl=zh-CN&scfhb=1)
+Duke dataset [Bibtex](https://github.com/layumi/DukeMTMC_evaluation/blob/master/citation.txt)
 
 Duke MTMC dataset [Bibtex](http://vision.cs.duke.edu/DukeMTMC/refs/ristani2016MTMC.txt)
