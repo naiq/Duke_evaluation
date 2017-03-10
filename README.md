@@ -11,7 +11,13 @@ If these links are unavailable, please don't hesitate to contact me to update li
 # Evaluation
 Download the codes in this repository. To evaluate your code, please change the feature path in the `evaluation_res_duke_fast.m` and run it.
 
+# Baselin
+|Methods |   Rank@1 | mAP|
+| --------   | -----  | ----  |
+|Basel.  | 65.22% | 44.99%|
+|Basel. + LSRO   | 67.68% | 47.13%|
+
 # Citation
-Duke dataset [Bibtex](https://github.com/layumi/DukeMTMC_evaluation/blob/master/citation.txt)
+Duke dataset, Baseline [Bibtex](https://raw.githubusercontent.com/layumi/DukeMTMC_evaluation/master/citation.txt)
 
 Duke MTMC dataset [Bibtex](http://vision.cs.duke.edu/DukeMTMC/refs/ristani2016MTMC.txt)
