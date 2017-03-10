@@ -5,7 +5,8 @@ The Duke dataset has 1,812 identities in 8 cameras. We crop pedestrain images fr
 
 # Download Dataset
 You can download the Duke dataset from [GoogleDriver](https://drive.google.com/open?id=0B0VOCNYh8HeRZ1hiSjRMRFpOaTA)
-or ([BaiduYun](https://pan.baidu.com/s/1qYJcxhM) password:c7ex)
+or ([BaiduYun](https://pan.baidu.com/s/1qYJcxhM) password:c7ex).
+
 If these links are unavailable, please don't hesitate to contact me to update links. 
 
 # Evaluation
