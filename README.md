@@ -12,7 +12,7 @@ If these links are unavailable, please don't hesitate to contact me to update li
 # Evaluation
 Download the codes in this repository. To evaluate your code, please change the feature path in the `evaluation_res_duke_fast.m` and run it.
 
-# Baselin
+# Baseline
 |Methods |   Rank@1 | mAP|
 | --------   | -----  | ----  |
 |Basel.  | 65.22% | 44.99%|
