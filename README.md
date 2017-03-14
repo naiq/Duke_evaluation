@@ -5,6 +5,8 @@ The Duke dataset has 1,812 identities in 8 cameras. We crop pedestrain images fr
 
 ### About Dataset
 
+![](https://github.com/layumi/Duke_evaluation/blob/master/duke_rank.jpg)
+
 |File  | Description | 
 | --------   | -----  |
 |/bounding_box_text  | All gallery images. We retrieve the images from this pool.|
