@@ -31,6 +31,9 @@ Download the codes in this repository. To evaluate your code, you just need to c
 |Basel.  | 65.22% | 44.99%|
 |Basel. + LSRO   | 67.68% | 47.13%|
 
+### Sample Retrieval
+![](https://github.com/layumi/Duke_evaluation/blob/master/duke_rank.jpg)
+
 ### Citation
 Duke Dataset, Baseline [Bibtex](https://raw.githubusercontent.com/layumi/DukeMTMC_evaluation/master/citation.txt)
 
