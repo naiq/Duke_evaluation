@@ -5,11 +5,11 @@ The Duke dataset has 1,812 identities in 8 cameras. We crop pedestrain images fr
 
 ### About Dataset
 
-|File | Description | 
+|File  | Description | 
 | --------   | -----  |
-|/bounding_box_text | All gallery images. We retrieve the images from this pool.|
-|/bounding_box_train | All training images from 702 different identities.|
-|/query | All query images. Each of them is from different identities in different cameras.|
+|/bounding_box_text  | All gallery images. We retrieve the images from this pool.|
+|/bounding_box_train  | All training images from 702 different identities.|
+|/query  | All query images. Each of them is from different identities in different cameras.|
 
 ### Download Dataset
 You can download the Duke dataset from [GoogleDriver](https://drive.google.com/open?id=0B0VOCNYh8HeRSDRwczZIT0lZTG8)
