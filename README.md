@@ -8,9 +8,9 @@ We crop pedestrain images from the videos every 120 frames, yielding in total 36
 ### About Dataset
 |File  | Description | 
 | --------   | -----  |
-|/bounding_box_text  | All gallery images. We retrieve a query from this image pool.|
-|/bounding_box_train  | All training images. The dir contains the images from 702 different identities.|
-|/query  | All query images. Each of them is from different identities in different cameras.|
+|/bounding_box_test  | The gallery images. We retrieve a query from this image pool.|
+|/bounding_box_train  | The training images. This dir contains the images from 702 different identities.|
+|/query  | The query images. Each of them is from different identities in different cameras.|
 
 **Naming Rule of the images** In bbox "0005_c2_f0046985.jpg", "0005" is the identity. "c2" means the image from Camera 2. "f0046985" is the 46985th frame in the video of Camera 2.
 
@@ -21,7 +21,7 @@ or ([BaiduYun](https://pan.baidu.com/s/1cIOYOu) password:48z4).
 If these links are unavailable, please don't hesitate to contact me to update links. Thank you.
 
 ### Evaluation
-Download the codes in this repository. To evaluate your code, you just need to change the img path and the feature path in the `evaluation_res_duke_fast.m` and run it.
+Download the codes in this repository. To evaluate your code, you just need to change the image path and the feature path in the `evaluation_res_duke_fast.m` and run it.
 
 ### Baseline
 |Methods |   Rank@1 | mAP|
