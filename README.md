@@ -26,7 +26,7 @@ To evaluate, you need to calculate your gallery and query feature (i.e. 17661x20
 
 ### Baseline
 |Methods | Rank@1 | mAP| 
-| --------  | ----- | ---- |
+| -------- | ----- | ---- |
 |BoW+kissme | 25.13% | 12.17% |
 |LOMO+XQDA | 30.75% | 17.04% |
 |Basel.  | 65.22% | 44.99%|
