@@ -27,7 +27,7 @@ To evaluate, you need to calculate your gallery and query feature (i.e. 17661x20
 ### Baseline
 |Methods | Rank@1 | mAP| Reference|
 | -------- | ----- | ---- | ---- |
-|BoW+kissme | 25.13% | 12.17% | |
+|BoW+kissme | 25.13% | 12.17% | "Scalable person re-identification: a benchmark", Liang Zheng, Liyue Shen, Lu Tian, Shengjin Wang, Jingdong Wang, Qi Tian, ICCV 2015|
 |LOMO+XQDA | 30.75% | 17.04% | |
 |Basel.  | 65.22% | 44.99%| |
 |Basel. + LSRO   | 67.68% | 47.13%| |
