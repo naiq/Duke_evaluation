@@ -25,12 +25,12 @@ If these links are unavailable, please don't hesitate to contact me to update li
 To evaluate, you need to calculate your gallery and query feature (i.e. 17661x2048 and 2228x2048 matrix) and save them in advance. Then download the codes in this repository. You just need to change the image path and the feature path in the `evaluation_res_duke_fast.m` and run it to evaluate.
 
 ### Baseline
-|Methods | Rank@1 | mAP| 
-| -------- | ----- | ---- |
-|BoW+kissme | 25.13% | 12.17% |
-|LOMO+XQDA | 30.75% | 17.04% |
-|Basel.  | 65.22% | 44.99%|
-|Basel. + LSRO   | 67.68% | 47.13%|
+|Methods | Rank@1 | mAP| Reference|
+| -------- | ----- | ---- | ---- |
+|BoW+kissme | 25.13% | 12.17% | |
+|LOMO+XQDA | 30.75% | 17.04% | |
+|Basel.  | 65.22% | 44.99%| |
+|Basel. + LSRO   | 67.68% | 47.13%| |
 ### Sample Retrieval
 ![](https://github.com/layumi/Duke_evaluation/blob/master/duke_rank.jpg)
 
