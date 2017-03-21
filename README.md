@@ -22,7 +22,7 @@ We crop pedestrain images from the videos every 120 frames, yielding in total 36
 You can download the Duke dataset from [GoogleDriver](https://drive.google.com/open?id=0B0VOCNYh8HeRSDRwczZIT0lZTG8)
 or ([BaiduYun](https://pan.baidu.com/s/1cIOYOu) password:48z4).
 
-If these links are unavailable, please don't hesitate to contact me to update links. Thank you.＝
+If these links are unavailable, please don't hesitate to contact me to update links. Thank you.
 ### Evaluation
 To evaluate, you need to calculate your gallery and query feature (i.e., 17661x2048 and 2228x2048 matrix) and save them in advance. Then download the codes in this repository. You just need to change the image path and the feature path in the `evaluation_res_duke_fast.m` and run it to evaluate.
 
