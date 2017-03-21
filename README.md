@@ -6,6 +6,8 @@ We crop pedestrain images from the videos every 120 frames, yielding in total 36
 
 **As a result, we get 16,522 training images of 702 identities, 2,228 query images of the other 702 identities and 17,661 gallery images.** 
 
+**This dataset is ONLY released for academic use. Please do not further distribute the dataset (including the download link), or put any of the images on the public website, due to the university regulations and privacy policy.**
+
 ### About Dataset
 |File  | Description | 
 | --------   | -----  |
