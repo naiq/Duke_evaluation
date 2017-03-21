@@ -6,8 +6,6 @@ We crop pedestrain images from the videos every 120 frames, yielding in total 36
 
 **As a result, we get 16,522 training images of 702 identities, 2,228 query images of the other 702 identities and 17,661 gallery images.** 
 
-**This dataset is ONLY released for academic use. Please do not further distribute the dataset (including the download link), or put any of the images on the public website, due to the university regulations and privacy policy.**
-
 ### About Dataset
 |File  | Description | 
 | --------   | -----  |
@@ -18,11 +16,13 @@ We crop pedestrain images from the videos every 120 frames, yielding in total 36
 **Naming Rule of the images** In bbox "0005_c2_f0046985.jpg", "0005" is the identity. "c2" means the image from Camera 2. "f0046985" is the 46985th frame in the video of Camera 2.
 
 ### Download Dataset
+
+**This dataset is ONLY released for academic use. Please do not further distribute the dataset (including the download link), or put any of the images on the public website, due to the university regulations and privacy policy.**
+
 You can download the Duke dataset from [GoogleDriver](https://drive.google.com/open?id=0B0VOCNYh8HeRSDRwczZIT0lZTG8)
 or ([BaiduYun](https://pan.baidu.com/s/1cIOYOu) password:48z4).
 
-If these links are unavailable, please don't hesitate to contact me to update links. Thank you.
-
+If these links are unavailable, please don't hesitate to contact me to update links. Thank you.＝
 ### Evaluation
 To evaluate, you need to calculate your gallery and query feature (i.e., 17661x2048 and 2228x2048 matrix) and save them in advance. Then download the codes in this repository. You just need to change the image path and the feature path in the `evaluation_res_duke_fast.m` and run it to evaluate.
 
