@@ -37,6 +37,6 @@ To evaluate, you need to calculate your gallery and query feature (i.e., 17661x2
 ![](https://github.com/layumi/Duke_evaluation/blob/master/duke_rank.jpg)
 
 ### Citation
-Duke Dataset, Baseline [Bibtex](https://raw.githubusercontent.com/layumi/DukeMTMC_evaluation/master/citation.txt)
+Duke Dataset [Bibtex](http://vision.cs.duke.edu/DukeMTMC/refs/ristani2016MTMC.txt)
 
-Duke MTMC Dataset [Bibtex](http://vision.cs.duke.edu/DukeMTMC/refs/ristani2016MTMC.txt)
+Duke Protocol, Baseline [Bibtex](https://raw.githubusercontent.com/layumi/DukeMTMC_evaluation/master/citation.txt)
