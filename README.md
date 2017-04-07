@@ -40,6 +40,6 @@ To evaluate, you need to calculate your gallery and query feature (i.e., 17661x2
 ![](https://github.com/layumi/Duke_evaluation/blob/master/duke_rank.jpg)
 
 ### Citation
-DukeMTMC Dataset [Bibtex](http://vision.cs.duke.edu/DukeMTMC/refs/ristani2016MTMC.txt)
+DukeMTMC Dataset [Bibtex](https://raw.githubusercontent.com/layumi/DukeMTMC_reID_evaluation/master/citation_dataset.txt)
 
-DukeMTMC_reID Protocol, Baseline [Bibtex](https://raw.githubusercontent.com/layumi/DukeMTMC_evaluation/master/citation.txt)
+DukeMTMC_reID Protocol, Baseline [Bibtex](https://raw.githubusercontent.com/layumi/DukeMTMC_reID_evaluation/master/citation_protocol.txt)
