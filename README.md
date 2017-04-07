@@ -16,7 +16,7 @@ We crop pedestrain images from the videos every 120 frames, yielding in total 36
 **Naming Rule of the images** In bbox "0005_c2_f0046985.jpg", "0005" is the identity. "c2" means the image from Camera 2. "f0046985" is the 46985th frame in the video of Camera 2.
 
 ### Dataset Licence
-Please follow the [DukeMTMC License](https://raw.githubusercontent.com/layumi/DukeMTMC_reID_evaluation/blob/master/DukeMTMC_LICENSE). You are free to share, creat and share the dataset, in the manner specified in the license. 
+Please follow the [DukeMTMC License](https://raw.githubusercontent.com/layumi/DukeMTMC_reID_evaluation/blob/master/DukeMTMC_LICENSE.txt). You are free to share, creat and share the dataset, in the manner specified in the license. 
 
 The DukeMTMC_reID evaluation code is under the MIT License.
 
