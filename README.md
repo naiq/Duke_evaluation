@@ -18,9 +18,9 @@ We crop pedestrain images from the videos every 120 frames, yielding in total 36
 ### Dataset Licence
 Please follow the [DukeMTMC License](http://vision.cs.duke.edu/DukeMTMC/LICENSE.txt). You are free to share, creat and share the dataset, in the manner specified in the license. 
 
-### Download Dataset
+The DukeMTMC_reID evaluation code is under the MIT License.
 
-**The evaluation code is under the MIT License.**
+### Download Dataset
 
 You can download the Duke dataset from [GoogleDriver](https://drive.google.com/open?id=0B0VOCNYh8HeRSDRwczZIT0lZTG8)
 or ([BaiduYun](https://pan.baidu.com/s/1cIOYOu) password:48z4).
