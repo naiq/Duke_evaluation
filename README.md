@@ -1,4 +1,4 @@
-## Duke Description
+## DukeMTMC_reID Description
 ![](https://github.com/layumi/Duke_evaluation/blob/master/duke_mosaic.jpg)
 Duke is a subset of the [DukeMTMC](http://vision.cs.duke.edu/DukeMTMC/) for image-based re-ID, in the format of the Market-1501 dataset. The original dataset contains 85-minute high-resolution videos from 8 different cameras. Hand-drawn pedestrain bounding boxes are available. 
 
@@ -37,6 +37,6 @@ To evaluate, you need to calculate your gallery and query feature (i.e., 17661x2
 ![](https://github.com/layumi/Duke_evaluation/blob/master/duke_rank.jpg)
 
 ### Citation
-Duke Dataset [Bibtex](http://vision.cs.duke.edu/DukeMTMC/refs/ristani2016MTMC.txt)
+DukeMTMC Dataset [Bibtex](http://vision.cs.duke.edu/DukeMTMC/refs/ristani2016MTMC.txt)
 
-Duke Protocol, Baseline [Bibtex](https://raw.githubusercontent.com/layumi/DukeMTMC_evaluation/master/citation.txt)
+DukeMTMC_reID Protocol, Baseline [Bibtex](https://raw.githubusercontent.com/layumi/DukeMTMC_evaluation/master/citation.txt)
