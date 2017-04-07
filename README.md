@@ -1,6 +1,6 @@
 ## DukeMTMC_reID Description
 ![](https://github.com/layumi/Duke_evaluation/blob/master/duke_mosaic.jpg)
-Duke is a subset of the [DukeMTMC](http://vision.cs.duke.edu/DukeMTMC/) for image-based re-ID, in the format of the Market-1501 dataset. The original dataset contains 85-minute high-resolution videos from 8 different cameras. Hand-drawn pedestrain bounding boxes are available. 
+DukeMTMC_reID is a subset of the [DukeMTMC](http://vision.cs.duke.edu/DukeMTMC/) for image-based re-ID, in the format of the Market-1501 dataset. The original dataset contains 85-minute high-resolution videos from 8 different cameras. Hand-drawn pedestrain bounding boxes are available. 
 
 We crop pedestrain images from the videos every 120 frames, yielding in total 36,411 bounding boxes with IDs. There are 1,404 identities appearing in more than two cameras and 408 identities (distractor ID) who appear in only one camera. We randomly select 702 IDs as training set and the remaining 702 IDs as the testing set. In the testing set, we pick one query image for each ID in each camera and put the remaining images in the gallery. 
 
@@ -15,9 +15,12 @@ We crop pedestrain images from the videos every 120 frames, yielding in total 36
 
 **Naming Rule of the images** In bbox "0005_c2_f0046985.jpg", "0005" is the identity. "c2" means the image from Camera 2. "f0046985" is the 46985th frame in the video of Camera 2.
 
+### Dataset Licence
+Please follow the [DukeMTMC License](http://vision.cs.duke.edu/DukeMTMC/LICENSE.txt). You are free to share, creat and share the dataset, in the manner specified in the license. 
+
 ### Download Dataset
 
-**This dataset is ONLY released for academic use. Please do not further distribute the dataset (including the download link), or put any of the images on the public website, due to the university regulations and privacy policy.**
+**The evaluation code is under the MIT License.**
 
 You can download the Duke dataset from [GoogleDriver](https://drive.google.com/open?id=0B0VOCNYh8HeRSDRwczZIT0lZTG8)
 or ([BaiduYun](https://pan.baidu.com/s/1cIOYOu) password:48z4).
