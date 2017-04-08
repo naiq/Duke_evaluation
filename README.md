@@ -1,8 +1,8 @@
-## DukeMTMC_reID Description
+## DukeMTMC-reID Description
 ![](https://github.com/layumi/Duke_evaluation/blob/master/DukeMTMC_reID_mosaic.jpg)
-**What's new: We updated the name of the dataset from 'Duke' to 'DukeMTMC_reID', added the original license from DukeMTMC and removed the redistribution limitation.**
+**What's new: We updated the name of the dataset from 'Duke' to 'DukeMTMC-reID', added the original license from DukeMTMC and removed the redistribution limitation.**
 
-DukeMTMC_reID is a subset of the [DukeMTMC](http://vision.cs.duke.edu/DukeMTMC/) for image-based re-ID, in the format of the Market-1501 dataset. The original dataset contains 85-minute high-resolution videos from 8 different cameras. Hand-drawn pedestrain bounding boxes are available. 
+DukeMTMC-reID is a subset of the [DukeMTMC](http://vision.cs.duke.edu/DukeMTMC/) for image-based re-ID, in the format of the Market-1501 dataset. The original dataset contains 85-minute high-resolution videos from 8 different cameras. Hand-drawn pedestrain bounding boxes are available. 
 
 We crop pedestrain images from the videos every 120 frames, yielding in total 36,411 bounding boxes with IDs. There are 1,404 identities appearing in more than two cameras and 408 identities (distractor ID) who appear in only one camera. We randomly select 702 IDs as the training set and the remaining 702 IDs as the testing set. In the testing set, we pick one query image for each ID in each camera and put the remaining images in the gallery. 
 
@@ -20,11 +20,11 @@ We crop pedestrain images from the videos every 120 frames, yielding in total 36
 ### Dataset Licence
 Please follow the [DukeMTMC LICENSE](https://github.com/layumi/DukeMTMC_reID_evaluation/blob/master/DukeMTMC_LICENSE.txt). You are free to share, creat and share the dataset, in the manner specified in the license. 
 
-The DukeMTMC_reID evaluation code is under the MIT License.
+The DukeMTMC-reID evaluation code is under the MIT License.
 
 ### Download Dataset
 
-You can download the DukeMTMC_reID dataset from [GoogleDriver](https://drive.google.com/open?id=0B0VOCNYh8HeRV2FGSFNxSDhYR0E)
+You can download the DukeMTMC-reID dataset from [GoogleDriver](https://drive.google.com/open?id=0B0VOCNYh8HeRV2FGSFNxSDhYR0E)
 or ([BaiduYun](https://pan.baidu.com/s/1jHLbPB4) password:yw2u).
 
 If these links are unavailable, please don't hesitate to contact me to update links. Thank you.
@@ -44,4 +44,4 @@ To evaluate, you need to calculate your gallery and query feature (i.e., 17661x2
 ### Citation
 DukeMTMC Dataset [Bibtex](https://raw.githubusercontent.com/layumi/DukeMTMC_reID_evaluation/master/citation_dataset.txt)
 
-DukeMTMC_reID Protocol, Baseline [Bibtex](https://raw.githubusercontent.com/layumi/DukeMTMC_reID_evaluation/master/citation_protocol.txt)
+DukeMTMC-reID Protocol, Baseline [Bibtex](https://raw.githubusercontent.com/layumi/DukeMTMC_reID_evaluation/master/citation_protocol.txt)
