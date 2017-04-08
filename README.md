@@ -22,8 +22,8 @@ The DukeMTMC_reID evaluation code is under the MIT License.
 
 ### Download Dataset
 
-You can download the DukeMTMC_reID dataset from [GoogleDriver](https://drive.google.com/open?id=0B0VOCNYh8HeRSDRwczZIT0lZTG8)
-or ([BaiduYun](https://pan.baidu.com/s/1cIOYOu) password:48z4).
+You can download the DukeMTMC_reID dataset from [GoogleDriver](https://drive.google.com/open?id=0B0VOCNYh8HeRV2FGSFNxSDhYR0E)
+or ([BaiduYun](https://pan.baidu.com/s/1jHLbPB4) password:yw2u).
 
 If these links are unavailable, please don't hesitate to contact me to update links. Thank you.
 ### Evaluation
