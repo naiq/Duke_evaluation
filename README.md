@@ -1,6 +1,6 @@
 ## DukeMTMC_reID Description
 ![](https://github.com/layumi/Duke_evaluation/blob/master/DukeMTMC_reID_mosaic.jpg)
-**What's new: We updated the name of the dataset from 'Duke' to 'DukeMTMC_reID', we added the original license from DukeMTMC and removed the redistribution limitation.**
+**What's new: We updated the name of the dataset from 'Duke' to 'DukeMTMC_reID', added the original license from DukeMTMC and removed the redistribution limitation.**
 
 DukeMTMC_reID is a subset of the [DukeMTMC](http://vision.cs.duke.edu/DukeMTMC/) for image-based re-ID, in the format of the Market-1501 dataset. The original dataset contains 85-minute high-resolution videos from 8 different cameras. Hand-drawn pedestrain bounding boxes are available. 
 
