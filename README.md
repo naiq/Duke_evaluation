@@ -22,7 +22,7 @@ Please follow the [LICENSE_DukeMTMC-reID](https://github.com/layumi/DukeMTMC_reI
 
 We also include the [LICENSE_DukeMTMC](https://github.com/layumi/DukeMTMC_reID_evaluation/blob/master/LICENSE_DukeMTMC.txt). If you want to share, create and adapt the DukeMTMC dataset, please follow this license.
 
-The DukeMTMC-reID evaluation code is under the MIT License.
+The DukeMTMC-reID evaluation code is under the [MIT License](https://github.com/layumi/DukeMTMC_reID_evaluation/blob/master/Copying).
 
 ### Download Dataset
 
