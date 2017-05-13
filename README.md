@@ -46,6 +46,10 @@ To evaluate, you need to calculate your gallery and query feature (i.e., 17661x2
 ### Sample Retrieval
 ![](https://github.com/layumi/Duke_evaluation/blob/master/duke_rank.jpg)
 
+### DukeMTMC-attribute
+We also annotated 23 human-level attributes (gender/clothing/...) for DukeMTMC-reID. You can find it in the following link:
+https://github.com/vana77/DukeMTMC-attribute
+
 ### Citation
 DukeMTMC Dataset [Bibtex](https://raw.githubusercontent.com/layumi/DukeMTMC-reID_evaluation/master/CITATION_DukeMTMC.txt)
 
