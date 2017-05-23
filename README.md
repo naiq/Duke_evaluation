@@ -51,6 +51,7 @@ To evaluate, you need to calculate your gallery and query feature (i.e., 17661x2
 ### DukeMTMC-attribute
 We also annotated 23 human-level attributes (gender/clothing/...) for DukeMTMC-reID. You can find it in the following link:
 https://github.com/vana77/DukeMTMC-attribute
+
 ![](https://github.com/vana77/DukeMTMC-attribute/blob/master/sample_image.jpg)
 
 ### Citation
