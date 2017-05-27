@@ -33,7 +33,7 @@ If these links are unavailable, please don't hesitate to contact me to update li
 ### Evaluation
 To evaluate, you need to calculate your gallery and query feature (i.e., 17661x2048 and 2228x2048 matrix) and save them in advance. Then download the codes in this repository. You just need to change the image path and the feature path in the `evaluation_res_duke_fast.m` and run it to evaluate.
 
-### Baseline
+### State-of-the-art
 |Methods | Rank@1 | mAP| Reference|
 | -------- | ----- | ---- | ---- |
 |BoW+kissme | 25.13% | 12.17% | "[Scalable person re-identification: a benchmark](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7410490)", Zheng Liang, Shen Liyue, Tian Lu, Wang Shengjin, Wang Jingdong and Tian, Qi, ICCV 2015 [[project]](http://www.liangzheng.org/Project/project_reid.html)|
@@ -43,7 +43,9 @@ To evaluate, you need to calculate your gallery and query feature (i.e., 17661x2
 |APR | 70.69% | 51.88% | "[Improving person re-identification by attribute and identity learning](https://arxiv.org/abs/1703.07220)", Lin Yutian, Zheng Liang, Zheng Zhedong, Wu Yu and Yang Yi, arXiv:1703.07220 [[Attribute Dataset]](https://github.com/vana77/DukeMTMC-attribute) |
 |SVDNet | 76.7% | 56.8% | "[SVDNet for Pedestrian Retrieval](https://arxiv.org/abs/1703.05693)", Sun Yifan, Zheng Liang, Deng Weijian, Wang Shengjin, arXiv:1703.05693|
 
-(Here we provide the finetuned ResNet-50 baseline feature. You can download it from [GoogleDriver](https://drive.google.com/open?id=0B0VOCNYh8HeRVFR6bldBX0lTRVE) or [BaiduYun](https://pan.baidu.com/s/1c2CIsTy), which includes the feature of training set, query set and gallery set. The DukeMTMC-reID LICENSE is also included.)
+### Baseline
+We release our baseline training code and pretrained model in https://github.com/layumi/DukeMTMC-reID_baseline.
+Or you can directly download the finetuned ResNet-50 baseline feature. You can download it from [GoogleDriver](https://drive.google.com/open?id=0B0VOCNYh8HeRVFR6bldBX0lTRVE) or [BaiduYun](https://pan.baidu.com/s/1c2CIsTy), which includes the feature of training set, query set and gallery set. The DukeMTMC-reID LICENSE is also included.
 
 ### Sample Retrieval
 ![](https://github.com/layumi/Duke_evaluation/blob/master/duke_rank.jpg)
