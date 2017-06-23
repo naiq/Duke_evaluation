@@ -1,5 +1,4 @@
 clc;clear all;close all;
-addpath CM_Curve
 mkdir data;
 rank_size = 4000;
 
