@@ -43,7 +43,8 @@ To evaluate, you need to calculate your gallery and query feature (i.e., 17661x2
 |Basel. + OIM | 68.1% | - | "[Joint Detection and Identification Feature Learning for Person Search](https://arxiv.org/abs/1604.01850)", Xiao Tong, Li Shuang , Wang Bochao , Lin Liang and Wang Xiaogang, CVPR 2017
 |APR | 70.69% | 51.88% | "[Improving person re-identification by attribute and identity learning](https://arxiv.org/abs/1703.07220)", Lin Yutian, Zheng Liang, Zheng Zhedong, Wu Yu and Yang Yi, arXiv:1703.07220 [[Attribute Dataset]](https://github.com/vana77/DukeMTMC-attribute) |
 |SVDNet | 76.7% | 56.8% | "[SVDNet for Pedestrian Retrieval](https://arxiv.org/abs/1703.05693)", Sun Yifan, Zheng Liang, Deng Weijian, Wang Shengjin, arXiv:1703.05693|
-
+|PAN | 71.59% | 51.51% |"[Pedestrian Alignment Network for Large-scale Person Re-identification](https://arxiv.org/pdf/1707.00408.pdf)", Zheng Zhedong, Zheng Liang and Yang Yi, arXiv:1707.00408 [[code]](https://github.com/layumi/Pedestrian_Alignment)|
+|PAN+rerank | 75.94% | 66.74% | | 
 ### Baseline
 We release our baseline training code and pretrained model in https://github.com/layumi/DukeMTMC-reID_baseline.
 Or you can directly download the finetuned ResNet-50 baseline feature. You can download it from [GoogleDriver](https://drive.google.com/open?id=0B0VOCNYh8HeRVFR6bldBX0lTRVE) or [BaiduYun](https://pan.baidu.com/s/1c2CIsTy), which includes the feature of training set, query set and gallery set. The DukeMTMC-reID LICENSE is also included.
