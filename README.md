@@ -30,6 +30,15 @@ You can download the DukeMTMC-reID dataset from [GoogleDriver](https://drive.goo
 or ([BaiduYun](https://pan.baidu.com/s/1kUD80xp) password: chu1).
 
 If these links are unavailable, please don't hesitate to contact me to update links. Thank you.
+
+### Dataset Insights
+
+![](https://github.com/layumi/DukeMTMC-reID_evaluation/blob/master/Data_Distribution.jpg)
+
+Figure. The image distribution of DukeMTMC-reID training set. We note that the median of images per ID is 20. But some ID may contain lots of images, which may comprise some algorithms. (For example, ID 5388 contains 426 images.) 
+
+Thank [Xun](https://github.com/Xun-Yang) for suggestions.
+
 ### Evaluation
 To evaluate, you need to calculate your gallery and query feature (i.e., 17661x2048 and 2228x2048 matrix) and save them in advance. Then download the codes in this repository. You just need to change the image path and the feature path in the `evaluation_res_duke_fast.m` and run it to evaluate.
 
