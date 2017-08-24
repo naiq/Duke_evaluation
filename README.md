@@ -54,7 +54,8 @@ To evaluate, you need to calculate your gallery and query feature (i.e., 17661x2
 |ACRN | 72.58% | 51.96% | "[Person Re-Identification by Deep Learning Attribute-Complementary Information](http://openaccess.thecvf.com/content_cvpr_2017_workshops/w17/papers/Schumann_Person_Re-Identification_by_CVPR_2017_paper.pdf)", Arne Schumann and Rainer Stiefelhagen, CVPR 2017 Workshop|
 |PAN | 71.59% | 51.51% |"[Pedestrian Alignment Network for Large-scale Person Re-identification](https://arxiv.org/pdf/1707.00408.pdf)", Zheng Zhedong, Zheng Liang and Yang Yi, arXiv:1707.00408 [[code]](https://github.com/layumi/Pedestrian_Alignment)|
 |PAN+rerank | 75.94% | 66.74% | | 
-|SVDNet | 76.7% | 56.8% | "[SVDNet for Pedestrian Retrieval](https://arxiv.org/abs/1703.05693)", Sun Yifan, Zheng Liang, Deng Weijian, Wang Shengjin, arXiv:1703.05693|
+|SVDNet | 76.7% | 56.8% | "[SVDNet for Pedestrian Retrieval](https://arxiv.org/abs/1703.05693)", Sun Yifan, Zheng Liang, Deng Weijian and Wang Shengjin, arXiv:1703.05693|
+|DPFL | 79.2% | 60.6% | "[Person Re-Identification by Deep Learning Multi-Scale Representations](http://www.eecs.qmul.ac.uk/~sgg/papers/ChenEtAl_ICCV2017WK_CHI.pdf)", Chen Yanbei, Zhu Xiatian and Gong Shaogang, ICCV2017 workshop|
 
 ### Baseline
 We release our baseline training code and pretrained model in https://github.com/layumi/DukeMTMC-reID_baseline.
