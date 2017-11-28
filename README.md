@@ -58,6 +58,8 @@ To evaluate, you need to calculate your gallery and query feature (i.e., 17661x2
 |ACRN | 72.58% | 51.96% | "[Person Re-Identification by Deep Learning Attribute-Complementary Information](http://openaccess.thecvf.com/content_cvpr_2017_workshops/w17/papers/Schumann_Person_Re-Identification_by_CVPR_2017_paper.pdf)", Arne Schumann and Rainer Stiefelhagen, CVPR 2017 Workshop|
 |PAN | 71.59% | 51.51% |"[Pedestrian Alignment Network for Large-scale Person Re-identification](https://arxiv.org/pdf/1707.00408.pdf)", Zheng Zhedong, Zheng Liang and Yang Yi, arXiv:1707.00408 [[code]](https://github.com/layumi/Pedestrian_Alignment)|
 |PAN+rerank | 75.94% | 66.74% | | 
+|FMN | 74.51% | 56.88% |"[Let Features Decide for Themselves: Feature Mask Network for Person Re-identification](https://arxiv.org/pdf/1711.07155.pdf)", Guodong Ding, Salman Khan, Zhenmin Tang, Fatih Porikli, arXiv:1711.07155 | 
+|FMN+rerank | 79.52% | 72.79% | | 
 |SVDNet | 76.7% | 56.8% | "[SVDNet for Pedestrian Retrieval](https://arxiv.org/abs/1703.05693)", Sun Yifan, Zheng Liang, Deng Weijian and Wang Shengjin, ICCV 2017 [[code]](https://github.com/syfafterzy/SVDNet-for-Pedestrian-Retrieval)|
 |DPFL | 79.2% | 60.6% | "[Person Re-Identification by Deep Learning Multi-Scale Representations](http://www.eecs.qmul.ac.uk/~sgg/papers/ChenEtAl_ICCV2017WK_CHI.pdf)", Chen Yanbei, Zhu Xiatian and Gong Shaogang, ICCV2017 workshop|
 |SVDNet + REDA| 79.31% | 62.44% | "[Random Erasing Data Augmentation](https://arxiv.org/pdf/1708.04896.pdf)", Zhong Zhun, Zheng Liang, Kang Guoliang, Shaozi Li and Yi Yang, arXiv:1708.04896 [[code]](https://github.com/layumi/Pedestrian_Alignment)|
