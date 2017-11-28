@@ -61,6 +61,7 @@ To evaluate, you need to calculate your gallery and query feature (i.e., 17661x2
 |SVDNet | 76.7% | 56.8% | "[SVDNet for Pedestrian Retrieval](https://arxiv.org/abs/1703.05693)", Sun Yifan, Zheng Liang, Deng Weijian and Wang Shengjin, ICCV 2017 [[code]](https://github.com/syfafterzy/SVDNet-for-Pedestrian-Retrieval)|
 |DPFL | 79.2% | 60.6% | "[Person Re-Identification by Deep Learning Multi-Scale Representations](http://www.eecs.qmul.ac.uk/~sgg/papers/ChenEtAl_ICCV2017WK_CHI.pdf)", Chen Yanbei, Zhu Xiatian and Gong Shaogang, ICCV2017 workshop|
 |SVDNet + REDA| 79.31% | 62.44% | "[Random Erasing Data Augmentation](https://arxiv.org/pdf/1708.04896.pdf)", Zhong Zhun, Zheng Liang, Kang Guoliang, Shaozi Li and Yi Yang, arXiv:1708.04896 [[code]](https://github.com/layumi/Pedestrian_Alignment)|
+|Mid-level Representation | 80.43% | 63.88% | "[The Devil is in the Middle: Exploiting Mid-level Representations for Cross-Domain Instance Matching](https://arxiv.org/pdf/1711.08106.pdf)", Yu Qian, Chang Xiaobin, Song Yi-Zhe, Xiang Tao, Hospedales Timothy, arXiv:1711.08106| 
 |SVDNet + REDA + ReRank | 84.02% | 78.28% | | 
 
 ### Baseline
