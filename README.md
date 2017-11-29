@@ -63,8 +63,10 @@ To evaluate, you need to calculate your gallery and query feature (i.e., 17661x2
 |SVDNet | 76.7% | 56.8% | "[SVDNet for Pedestrian Retrieval](https://arxiv.org/abs/1703.05693)", Yifan Sun, Liang Zheng, Weijian Deng, Shengjin Wang, ICCV 2017 [[code]](https://github.com/syfafterzy/SVDNet-for-Pedestrian-Retrieval)|
 |DPFL | 79.2% | 60.6% | "[Person Re-Identification by Deep Learning Multi-Scale Representations](http://www.eecs.qmul.ac.uk/~sgg/papers/ChenEtAl_ICCV2017WK_CHI.pdf)", Yanbei Chen, Xiatian Zhu and Shaogang Gong, ICCV2017 workshop|
 |SVDNet + REDA| 79.31% | 62.44% | "[Random Erasing Data Augmentation](https://arxiv.org/abs/1708.04896)", Zhun Zhong, Liang Zheng, Guoliang Kang, Shaozi Li, Yi Yang, arXiv:1708.04896 [[code]](https://github.com/layumi/Pedestrian_Alignment)|
-|Mid-level Representation | 80.43% | 63.88% | "[The Devil is in the Middle: Exploiting Mid-level Representations for Cross-Domain Instance Matching](https://arxiv.org/abs/1711.08106)", Qian Yu, Xiaobin Chang, Yi-Zhe Song, Tao Xiang, Timothy M. Hospedales, arXiv:1711.08106| 
-|SVDNet + REDA + ReRank | 84.02% | 78.28% | | 
+|SVDNet + REDA + ReRank | 84.02% | 78.28% | |
+|Mid-level Representation | 80.43% | 63.88% | "[The Devil is in the Middle: Exploiting Mid-level Representations for Cross-Domain Instance Matching](https://arxiv.org/abs/1711.08106)", Qian Yu, Xiaobin Chang, Yi-Zhe Song, Tao Xiang, Timothy M. Hospedales, arXiv:1711.08106|  
+|PSE| 79.8% | 62.0% | "A Pose-Sensitive Embedding for Person Re-Identification with Expanded Cross Neighborhood Re-Ranking(https://arxiv.org/abs/1711.10378)", M. Saquib Sarfraz, Arne Schumann, Andreas Eberle, Rainer Stiefelhagen, arXiv:1711.10378|
+|PSE + ECN + ReRank | 85.2% | 79.8% | |
 
 ### Baseline
 We release our baseline training code and pretrained model in https://github.com/layumi/DukeMTMC-reID_baseline.
