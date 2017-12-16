@@ -68,6 +68,7 @@ To evaluate, you need to calculate your gallery and query feature (i.e., 17661x2
 |Deep-Person | 80.90% | 64.80% | "[Deep-Person: Learning Discriminative Deep Features for Person Re-Identification](https://arxiv.org/abs/1711.10658)", Xiang Bai, Mingkun Yang, Tengteng Huang, Zhiyong Dou, Rui Yu, Yongchao Xu, arXiv:1711.10658|  
 |PSE| 79.8% | 62.0% | "[A Pose-Sensitive Embedding for Person Re-Identification with Expanded Cross Neighborhood Re-Ranking](https://arxiv.org/abs/1711.10378)", M. Saquib Sarfraz, Arne Schumann, Andreas Eberle, Rainer Stiefelhagen, arXiv:1711.10378 [[code]](https://github.com/pse-ecn/pose-sensitive-embedding)|
 |PSE + ECN + ReRank | 85.2% | 79.8% | |
+|PCB| 83.3% | 69.2% | "[Beyond Part Models: Person Retrieval with Refined Part Pooling](https://arxiv.org/abs/1711.09349)", Yifan Sun, Liang Zheng, Yi Yang, Qi Tian, Shengjin Wang, arXiv:1711.09349|
 
 ### Baseline
 We release our baseline training code and pretrained model in https://github.com/layumi/DukeMTMC-reID_baseline.
