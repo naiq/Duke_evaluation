@@ -75,6 +75,7 @@ To evaluate, you need to calculate your gallery and query feature (i.e., 17661x2
 |PSE| 79.8% | 62.0% | "[A Pose-Sensitive Embedding for Person Re-Identification with Expanded Cross Neighborhood Re-Ranking](https://arxiv.org/abs/1711.10378)", M. Saquib Sarfraz, Arne Schumann, Andreas Eberle, Rainer Stiefelhagen, arXiv:1711.10378 [[code]](https://github.com/pse-ecn/pose-sensitive-embedding)|
 |PSE + ECN + ReRank | 85.2% | 79.8% | |
 |PCB| 83.3% | 69.2% | "[Beyond Part Models: Person Retrieval with Refined Part Pooling](https://arxiv.org/abs/1711.09349)", Yifan Sun, Liang Zheng, Yi Yang, Qi Tian, Shengjin Wang, arXiv:1711.09349|
+|GP-reID | 85.2% | 72.8% | "[Re-ID done right: towards good practices for person re-identification](https://arxiv.org/abs/1801.05339)", Jon Almazan, Bojana Gajic, Naila Murray, Diane Larlus, arXiv:1801.05339 |
 
 ### Baseline
 We release our baseline training code and pretrained model in [[Matconvnet Version]](https://github.com/layumi/DukeMTMC-reID_baseline) and [[Pytorch Version]](https://github.com/layumi/Person_reID_baseline_pytorch). You can choose one of the two tools to conduct the experiment.
