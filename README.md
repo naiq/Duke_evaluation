@@ -91,6 +91,13 @@ https://github.com/vana77/DukeMTMC-attribute
 
 ![](https://github.com/vana77/DukeMTMC-attribute/blob/master/sample_image.jpg)
 
+### DukeMTMC-Pose
+We use pretrained CNN to generate 18 body keypoints. You can find it in the following link:
+https://github.com/layumi/DukeMTMC-Pose
+
+![](https://github.com/layumi/DukeMTMC-Pose/blob/master/demo.png) 
+
+
 ### Citation
 DukeMTMC Dataset [[Bibtex]](https://raw.githubusercontent.com/layumi/DukeMTMC-reID_evaluation/master/CITATION_DukeMTMC.txt)
 
