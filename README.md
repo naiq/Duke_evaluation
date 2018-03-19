@@ -67,6 +67,7 @@ To evaluate, you need to calculate your gallery and query feature (i.e., 17661x2
 |FMN | 74.51% | 56.88% |"[Let Features Decide for Themselves: Feature Mask Network for Person Re-identification](https://arxiv.org/abs/1711.07155)", Guodong Ding, Salman Khan, Zhenmin Tang, Fatih Porikli, arXiv:1711.07155 | 
 |FMN+rerank | 79.52% | 72.79% | | 
 |SVDNet | 76.7% | 56.8% | "[SVDNet for Pedestrian Retrieval](https://arxiv.org/abs/1703.05693)", Yifan Sun, Liang Zheng, Weijian Deng, Shengjin Wang, ICCV 2017 [[code]](https://github.com/syfafterzy/SVDNet-for-Pedestrian-Retrieval)|
+|dMpRL | 76.81% | 58.56% | "[Multi-pseudo Regularized Label for Generated Samples in Person Re-Identification](https://arxiv.org/abs/1801.06742)", Huang Yan, Jinsong Xu, Qiang Wu, Zhedong Zheng, Zhaoxiang Zhang, and Jian Zhang, arXiv:1801.06742 |
 |DPFL | 79.2% | 60.6% | "[Person Re-Identification by Deep Learning Multi-Scale Representations](http://www.eecs.qmul.ac.uk/~sgg/papers/ChenEtAl_ICCV2017WK_CHI.pdf)", Yanbei Chen, Xiatian Zhu and Shaogang Gong, ICCV2017 workshop|
 |SVDNet + REDA| 79.31% | 62.44% | "[Random Erasing Data Augmentation](https://arxiv.org/abs/1708.04896)", Zhun Zhong, Liang Zheng, Guoliang Kang, Shaozi Li, Yi Yang, arXiv:1708.04896 [[code]](https://github.com/layumi/Pedestrian_Alignment)|
 |SVDNet + REDA + ReRank | 84.02% | 78.28% | |
