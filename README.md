@@ -71,6 +71,7 @@ To evaluate, you need to calculate your gallery and query feature (i.e., 17661x2
 |DPFL | 79.2% | 60.6% | "[Person Re-Identification by Deep Learning Multi-Scale Representations](http://www.eecs.qmul.ac.uk/~sgg/papers/ChenEtAl_ICCV2017WK_CHI.pdf)", Yanbei Chen, Xiatian Zhu and Shaogang Gong, ICCV2017 workshop|
 |SVDNet + REDA| 79.31% | 62.44% | "[Random Erasing Data Augmentation](https://arxiv.org/abs/1708.04896)", Zhun Zhong, Liang Zheng, Guoliang Kang, Shaozi Li, Yi Yang, arXiv:1708.04896 [[code]](https://github.com/layumi/Pedestrian_Alignment)|
 |SVDNet + REDA + ReRank | 84.02% | 78.28% | |
+|ATWL(2-stream)| 79.80% | 63.40% | "[Features for Multi-Target Multi-Camera Tracking and Re-Identification](https://arxiv.org/abs/1803.10859)", Ergys Ristani and Carlo Tomasi, CVPR2018|
 |Mid-level Representation| 80.43% | 63.88% | "[The Devil is in the Middle: Exploiting Mid-level Representations for Cross-Domain Instance Matching](https://arxiv.org/abs/1711.08106)", Qian Yu, Xiaobin Chang, Yi-Zhe Song, Tao Xiang, Timothy M. Hospedales, arXiv:1711.08106|  
 |HA-CNN| 80.5% | 63.8% |"[Harmonious Attention Network for Person Re-Identification](https://arxiv.org/abs/1802.08122)", Li Wei, Xiatian Zhu, and Shaogang Gong, arXiv:1802.08122|
 |Deep-Person | 80.90% | 64.80% | "[Deep-Person: Learning Discriminative Deep Features for Person Re-Identification](https://arxiv.org/abs/1711.10658)", Xiang Bai, Mingkun Yang, Tengteng Huang, Zhiyong Dou, Rui Yu, Yongchao Xu, arXiv:1711.10658|  
