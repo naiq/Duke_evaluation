@@ -15,16 +15,19 @@ If you notice any result that has not been included in this table, please connec
 |PAN+rerank | 75.94% | 66.74% | | 
 |FMN | 74.51% | 56.88% |"[Let Features Decide for Themselves: Feature Mask Network for Person Re-identification](https://arxiv.org/abs/1711.07155)", Guodong Ding, Salman Khan, Zhenmin Tang, Fatih Porikli, arXiv:1711.07155 | 
 |FMN+rerank | 79.52% | 72.79% | | 
+|Bilinear Coding| 76.2% | 56.9% | "[Weighted Bilinear Coding over Salient Body Parts for Person Re-identification](https://arxiv.org/abs/1803.08580)" Zhou Qin, Heng Fan, Hang Su, Hua Yang, Shibao Zheng, and Haibin Ling, arXiv:1803.08580|
 |SVDNet | 76.7% | 56.8% | "[SVDNet for Pedestrian Retrieval](https://arxiv.org/abs/1703.05693)", Yifan Sun, Liang Zheng, Weijian Deng, Shengjin Wang, ICCV 2017 [[code]](https://github.com/syfafterzy/SVDNet-for-Pedestrian-Retrieval)|
 |dMpRL | 76.81% | 58.56% | "[Multi-pseudo Regularized Label for Generated Samples in Person Re-Identification](https://arxiv.org/abs/1801.06742)", Huang Yan, Jinsong Xu, Qiang Wu, Zhedong Zheng, Zhaoxiang Zhang, and Jian Zhang, arXiv:1801.06742 |
 |DPFL | 79.2% | 60.6% | "[Person Re-Identification by Deep Learning Multi-Scale Representations](http://www.eecs.qmul.ac.uk/~sgg/papers/ChenEtAl_ICCV2017WK_CHI.pdf)", Yanbei Chen, Xiatian Zhu and Shaogang Gong, ICCV2017 workshop|
 |SVDNet + REDA| 79.31% | 62.44% | "[Random Erasing Data Augmentation](https://arxiv.org/abs/1708.04896)", Zhun Zhong, Liang Zheng, Guoliang Kang, Shaozi Li, Yi Yang, arXiv:1708.04896 [[code]](https://github.com/layumi/Pedestrian_Alignment)|
 |SVDNet + REDA + ReRank | 84.02% | 78.28% | |
+|PSE| 79.8% | 62.0% | "[A Pose-Sensitive Embedding for Person Re-Identification with Expanded Cross Neighborhood Re-Ranking](https://arxiv.org/abs/1711.10378)", M. Saquib Sarfraz, Arne Schumann, Andreas Eberle, Rainer Stiefelhagen, arXiv:1711.10378 [[code]](https://github.com/pse-ecn/pose-sensitive-embedding)|
+|PSE + ECN + ReRank | 85.2% | 79.8% | |
 |ATWL(2-stream)| 79.80% | 63.40% | "[Features for Multi-Target Multi-Camera Tracking and Re-Identification](https://arxiv.org/abs/1803.10859)", Ergys Ristani and Carlo Tomasi, CVPR2018|
 |Mid-level Representation| 80.43% | 63.88% | "[The Devil is in the Middle: Exploiting Mid-level Representations for Cross-Domain Instance Matching](https://arxiv.org/abs/1711.08106)", Qian Yu, Xiaobin Chang, Yi-Zhe Song, Tao Xiang, Timothy M. Hospedales, arXiv:1711.08106|  
 |HA-CNN| 80.5% | 63.8% |"[Harmonious Attention Network for Person Re-Identification](https://arxiv.org/abs/1802.08122)", Li Wei, Xiatian Zhu, and Shaogang Gong, arXiv:1802.08122|
 |Deep-Person | 80.90% | 64.80% | "[Deep-Person: Learning Discriminative Deep Features for Person Re-Identification](https://arxiv.org/abs/1711.10658)", Xiang Bai, Mingkun Yang, Tengteng Huang, Zhiyong Dou, Rui Yu, Yongchao Xu, arXiv:1711.10658|  
-|PSE| 79.8% | 62.0% | "[A Pose-Sensitive Embedding for Person Re-Identification with Expanded Cross Neighborhood Re-Ranking](https://arxiv.org/abs/1711.10378)", M. Saquib Sarfraz, Arne Schumann, Andreas Eberle, Rainer Stiefelhagen, arXiv:1711.10378 [[code]](https://github.com/pse-ecn/pose-sensitive-embedding)|
-|PSE + ECN + ReRank | 85.2% | 79.8% | |
+|MLFN| 81.2%| 62.8% | "[Multi-Level Factorisation Net for Person Re-Identification](https://arxiv.org/abs/1803.09132)" Chang Xiaobin, Timothy M. Hospedales, and Tao Xiang, CVPR2018. |
 |PCB| 83.3% | 69.2% | "[Beyond Part Models: Person Retrieval with Refined Part Pooling](https://arxiv.org/abs/1711.09349)", Yifan Sun, Liang Zheng, Yi Yang, Qi Tian, Shengjin Wang, arXiv:1711.09349|
 |GP-reID | 85.2% | 72.8% | "[Re-ID done right: towards good practices for person re-identification](https://arxiv.org/abs/1801.05339)", Jon Almazan, Bojana Gajic, Naila Murray, Diane Larlus, arXiv:1801.05339 |
+
