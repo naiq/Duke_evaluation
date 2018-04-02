@@ -18,7 +18,7 @@ If you notice any result that has not been included in this table, please connec
 |Bilinear Coding| 76.2% | 56.9% | "[Weighted Bilinear Coding over Salient Body Parts for Person Re-identification](https://arxiv.org/abs/1803.08580)" Zhou Qin, Heng Fan, Hang Su, Hua Yang, Shibao Zheng, and Haibin Ling, arXiv:1803.08580|
 |SVDNet | 76.7% | 56.8% | "[SVDNet for Pedestrian Retrieval](https://arxiv.org/abs/1703.05693)", Yifan Sun, Liang Zheng, Weijian Deng, Shengjin Wang, ICCV 2017 [[code]](https://github.com/syfafterzy/SVDNet-for-Pedestrian-Retrieval)|
 |dMpRL | 76.81% | 58.56% | "[Multi-pseudo Regularized Label for Generated Samples in Person Re-Identification](https://arxiv.org/abs/1801.06742)", Huang Yan, Jinsong Xu, Qiang Wu, Zhedong Zheng, Zhaoxiang Zhang, and Jian Zhang, arXiv:1801.06742 |
-|CamStyle + RE| 78.32% | 57.61% | "[Camera Style Adaptation for Person Re-identification](https://arxiv.org/abs/1711.10295)", Zhun Zhong, Liang Zheng, Zhedong Zheng, Shaozi Li, Yi Yang, CVPR2018 [**[code]**](https://github.com/layumi/Pedestrian_Alignment)|
+|CamStyle + RE| 78.32% | 57.61% | "[Camera Style Adaptation for Person Re-identification](https://arxiv.org/abs/1711.10295)", Zhun Zhong, Liang Zheng, Zhedong Zheng, Shaozi Li, Yi Yang, CVPR 2018 [**[code]**](https://github.com/layumi/Pedestrian_Alignment)|
 |DPFL | 79.2% | 60.6% | "[Person Re-Identification by Deep Learning Multi-Scale Representations](http://www.eecs.qmul.ac.uk/~sgg/papers/ChenEtAl_ICCV2017WK_CHI.pdf)", Yanbei Chen, Xiatian Zhu and Shaogang Gong, ICCV2017 workshop|
 |SVDNet + RE| 79.31% | 62.44% | "[Random Erasing Data Augmentation](https://arxiv.org/abs/1708.04896)", Zhun Zhong, Liang Zheng, Guoliang Kang, Shaozi Li, Yi Yang, arXiv:1708.04896|
 |SVDNet + RE + rerank | 84.02% | 78.28% | |
@@ -33,3 +33,10 @@ If you notice any result that has not been included in this table, please connec
 |PCB| 83.3% | 69.2% | "[Beyond Part Models: Person Retrieval with Refined Part Pooling](https://arxiv.org/abs/1711.09349)", Yifan Sun, Liang Zheng, Yi Yang, Qi Tian, Shengjin Wang, arXiv:1711.09349|
 |GP-reID | 85.2% | 72.8% | "[Re-ID done right: towards good practices for person re-identification](https://arxiv.org/abs/1801.05339)", Jon Almazan, Bojana Gajic, Naila Murray, Diane Larlus, arXiv:1801.05339 |
 
+### Transfer Learning
+Train on Market-1501, Test on DukeMTMC-reID
+
+|Methods | Rank@1 | mAP| Reference|
+| -------- | ----- | ---- | ---- |
+|SPGAN | 41.4% | 22.3% | "[Image-Image Domain Adaptation with Preserved Self-Similarity and Domain-Dissimilarity for Person Re-identification](https://arxiv.org/abs/1711.07027)", Weijian Deng, Liang Zheng, Guoliang Kang, Yi Yang, Qixiang Ye, Jianbin Jiao, CVPR 2018|
+|SPGAN+LMP | 46.4% | 26.2% | |
