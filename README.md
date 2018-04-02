@@ -52,7 +52,7 @@ This picture is from [DukeMTMC Homepage](http://vision.cs.duke.edu/DukeMTMC/).
 To evaluate, you need to calculate your gallery and query feature (i.e., 17661x2048 and 2228x2048 matrix) and save them in advance. Then download the codes in this repository. You just need to change the image path and the feature path in the `evaluation_res_duke_fast.m` and run it to evaluate.
 
 ### State-of-the-art
-We have summarized current state-of-the-art methods on DukeMTMC at [here](https://github.com/layumi/DukeMTMC-reID_evaluation/blob/master/State-of-the-art/README.md). If you notice any result that have not been included in this table, please connect [Zhedong Zheng](mailto:zdzheng12@gmail.com) to add. You are welcomed!
+We have summarized current state-of-the-art methods on DukeMTMC at [here](https://github.com/layumi/DukeMTMC-reID_evaluation/blob/master/State-of-the-art/README.md). If you notice any result that has not been included in this table, please connect [Zhedong Zheng](mailto:zdzheng12@gmail.com) without hesitation to add the method. You are welcomed!
 
 ### Baseline
 We release our baseline training code and pretrained model in [[Matconvnet Version]](https://github.com/layumi/DukeMTMC-reID_baseline) and [[Pytorch Version]](https://github.com/layumi/Person_reID_baseline_pytorch). You can choose one of the two tools to conduct the experiment.
