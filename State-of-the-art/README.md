@@ -24,12 +24,12 @@ If you notice any result that has not been included in this table, please connec
 |SVDNet + RE + rerank | 84.02% | 78.28% | |
 |PSE| 79.8% | 62.0% | "[A Pose-Sensitive Embedding for Person Re-Identification with Expanded Cross Neighborhood Re-Ranking](https://arxiv.org/abs/1711.10378)", M. Saquib Sarfraz, Arne Schumann, Andreas Eberle, Rainer Stiefelhagen, arXiv:1711.10378 [**[code]**](https://github.com/pse-ecn/pose-sensitive-embedding)|
 |PSE + ECN + rerank | 85.2% | 79.8% | |
-|ATWL(2-stream)| 79.80% | 63.40% | "[Features for Multi-Target Multi-Camera Tracking and Re-Identification](https://arxiv.org/abs/1803.10859)", Ergys Ristani and Carlo Tomasi, CVPR2018|
+|ATWL(2-stream)| 79.80% | 63.40% | "[Features for Multi-Target Multi-Camera Tracking and Re-Identification](https://arxiv.org/abs/1803.10859)", Ergys Ristani and Carlo Tomasi, CVPR 2018|
 |Mid-level Representation| 80.43% | 63.88% | "[The Devil is in the Middle: Exploiting Mid-level Representations for Cross-Domain Instance Matching](https://arxiv.org/abs/1711.08106)", Qian Yu, Xiaobin Chang, Yi-Zhe Song, Tao Xiang, Timothy M. Hospedales, arXiv:1711.08106|  
-|HA-CNN| 80.5% | 63.8% |"[Harmonious Attention Network for Person Re-Identification](https://arxiv.org/abs/1802.08122)", Li Wei, Xiatian Zhu, and Shaogang Gong, CVPR2018|
+|HA-CNN| 80.5% | 63.8% |"[Harmonious Attention Network for Person Re-Identification](https://arxiv.org/abs/1802.08122)", Li Wei, Xiatian Zhu, and Shaogang Gong, CVPR 2018|
 |Deep-Person | 80.90% | 64.80% | "[Deep-Person: Learning Discriminative Deep Features for Person Re-Identification](https://arxiv.org/abs/1711.10658)", Xiang Bai, Mingkun Yang, Tengteng Huang, Zhiyong Dou, Rui Yu, Yongchao Xu, arXiv:1711.10658|  
-|MLFN| 81.2%| 62.8% | "[Multi-Level Factorisation Net for Person Re-Identification](https://arxiv.org/abs/1803.09132)" Xiaobin Chang, Timothy M. Hospedales, and Tao Xiang, CVPR2018. |
-|DuATM | 81.82% | 64.58% | "[Dual Attention Matching Network for Context-Aware Feature Sequence based Person Re-Identification](https://arxiv.org/abs/1803.09937)", Jianlou Si, Honggang Zhang, Chun-Guang Li, Jason Kuen, Xiangfei Kong, Alex C. Kot, Gang Wang, CVPR2018|
+|MLFN| 81.2%| 62.8% | "[Multi-Level Factorisation Net for Person Re-Identification](https://arxiv.org/abs/1803.09132)" Xiaobin Chang, Timothy M. Hospedales, and Tao Xiang, CVPR 2018. |
+|DuATM | 81.82% | 64.58% | "[Dual Attention Matching Network for Context-Aware Feature Sequence based Person Re-Identification](https://arxiv.org/abs/1803.09937)", Jianlou Si, Honggang Zhang, Chun-Guang Li, Jason Kuen, Xiangfei Kong, Alex C. Kot, Gang Wang, CVPR 2018|
 |PCB| 83.3% | 69.2% | "[Beyond Part Models: Person Retrieval with Refined Part Pooling](https://arxiv.org/abs/1711.09349)", Yifan Sun, Liang Zheng, Yi Yang, Qi Tian, Shengjin Wang, arXiv:1711.09349|
 |GP-reID | 85.2% | 72.8% | "[Re-ID done right: towards good practices for person re-identification](https://arxiv.org/abs/1801.05339)", Jon Almazan, Bojana Gajic, Naila Murray, Diane Larlus, arXiv:1801.05339 |
 
