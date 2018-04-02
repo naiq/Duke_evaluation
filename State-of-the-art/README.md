@@ -1,5 +1,5 @@
 ## State-of-the-art
-If you notice any result that have not been included in this table, please connect [Zhedong Zheng](mailto:zdzheng12@gmail.com) without hesitation to add the method. You are welcomed!
+If you notice any result that has not been included in this table, please connect [Zhedong Zheng](mailto:zdzheng12@gmail.com) without hesitation to add the method. You are welcomed!
  
 |Methods | Rank@1 | mAP| Reference|
 | -------- | ----- | ---- | ---- |
