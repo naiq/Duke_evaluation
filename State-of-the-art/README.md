@@ -38,6 +38,7 @@ Train on Market-1501, Test on DukeMTMC-reID
 
 |Methods | Rank@1 | mAP| Reference|
 | -------- | ----- | ---- | ---- |
+| UMDL | 18.5% | 7.3% | "[Unsupervised cross-dataset transfer learning for person re-identification](https://www.cv-foundation.org/openaccess/content_cvpr_2016/app/S06-34.pdf)", Peng Peixi, Tao Xiang, Yaowei Wang, Massimiliano Pontil, Shaogang Gong, Tiejun Huang, and Yonghong Tian, CVPR 2016 |
 | PUL | 30.4% | 16.8% | "[Unsupervised Person Re-identification: Clustering and Fine-tuning](https://arxiv.org/abs/1705.10444)", Hehe Fan, Liang Zheng, Yi Yang, arXiv:1705.10444 [[code]](https://github.com/hehefan/Unsupervised-Person-Re-identification-Clustering-and-Fine-tuning)|
 |SPGAN | 41.4% | 22.3% | "[Image-Image Domain Adaptation with Preserved Self-Similarity and Domain-Dissimilarity for Person Re-identification](https://arxiv.org/abs/1711.07027)", Weijian Deng, Liang Zheng, Guoliang Kang, Yi Yang, Qixiang Ye, Jianbin Jiao, CVPR 2018|
 |SPGAN+LMP | 46.4% | 26.2% | |
