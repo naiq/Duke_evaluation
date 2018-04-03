@@ -34,7 +34,7 @@ If you notice any result that has not been included in this table, please connec
 |GP-reID | 85.2% | 72.8% | "[Re-ID done right: towards good practices for person re-identification](https://arxiv.org/abs/1801.05339)", Jon Almazan, Bojana Gajic, Naila Murray, Diane Larlus, arXiv:1801.05339 |
 
 ### Transfer Learning
-Train on Market-1501, Test on DukeMTMC-reID
+Train on [Market-1501](http://www.liangzheng.com.cn/Project/project_reid.html), Test on DukeMTMC-reID
 
 |Methods | Rank@1 | mAP| Reference|
 | -------- | ----- | ---- | ---- |
