@@ -55,7 +55,7 @@ To evaluate, you need to calculate your gallery and query feature (i.e., 17661x2
 We have summarized current state-of-the-art methods on DukeMTMC at [here](https://github.com/layumi/DukeMTMC-reID_evaluation/blob/master/State-of-the-art/README.md). If you notice any result that has not been included in this table, please connect [Zhedong Zheng](mailto:zdzheng12@gmail.com) without hesitation to add the method. You are welcomed!
 
 ### Baseline
-We release our baseline training code and pretrained model in [[Matconvnet Version]](https://github.com/layumi/DukeMTMC-reID_baseline) and [[Pytorch Version]](https://github.com/layumi/Person_reID_baseline_pytorch). You can choose one of the two tools to conduct the experiment.
+We release our baseline training code and pretrained model in [[Matconvnet Version]](https://github.com/layumi/DukeMTMC-reID_baseline) and [[Pytorch Version]](https://github.com/layumi/Person_reID_baseline_pytorch). You can choose one of the two tools to conduct the experiment. Furthermore, you may try our new [Pedestrain Alignment Code](https://github.com/layumi/Pedestrian_Alignment) which combines person alignment with re-ID.
 
 Or you can directly download the finetuned ResNet-50 baseline feature. You can download it from [GoogleDriver](https://drive.google.com/open?id=0B0VOCNYh8HeRVFR6bldBX0lTRVE) or [BaiduYun](https://pan.baidu.com/s/1c2CIsTy), which includes the feature of training set, query set and gallery set. The DukeMTMC-reID LICENSE is also included.
 
