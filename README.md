@@ -39,7 +39,7 @@ If download links are unavailable, please don't hesitate to contact me to update
 * Data Distribution
 ![](https://github.com/layumi/DukeMTMC-reID_evaluation/blob/master/Data_Distribution.jpg)
 
-Figure. The image distribution of DukeMTMC-reID training set. We note that the median of images per ID is 20. But some ID may contain lots of images, which may comprise some algorithms. (For example, ID 5388 contains 426 images.) 
+Figure. The image distribution of DukeMTMC-reID training set. We note that the median of images per ID is 20. But some ID may contain lots of images, which may compromise some algorithms. (For example, ID 5388 contains 426 images.) 
 
 Thank [Xun](https://github.com/Xun-Yang) for suggestions.
 
