@@ -33,6 +33,7 @@ If you notice any result that has not been included in this table, please connec
 |PCB| 83.3% | 69.2% | "[Beyond Part Models: Person Retrieval with Refined Part Pooling](https://arxiv.org/abs/1711.09349)", Yifan Sun, Liang Zheng, Yi Yang, Qi Tian, Shengjin Wang, arXiv:1711.09349|
 |GP-reID | 85.2% | 72.8% | "[Re-ID done right: towards good practices for person re-identification](https://arxiv.org/abs/1801.05339)", Jon Almazan, Bojana Gajic, Naila Murray, Diane Larlus, arXiv:1801.05339 |
 |SPreID (Res-152) | 85.95% | 73.34% |  "[Human Semantic Parsing for Person Re-identification](https://arxiv.org/abs/1804.00216)", Kalayeh, Mahdi M., Emrah Basaran, Muhittin Gokmen, Mustafa E. Kamasak, and Mubarak Shah, CVPR2018|
+|MGN| 88.7% | 78.4% | "[Learning Discriminative Features with Multiple Granularities for Person Re-Identification](https://arxiv.org/abs/1804.01438)" Wang, Guanshuo, Yufeng Yuan, Xiong Chen, Jiwei Li, and Xi Zhou. arXiv:1804.01438 |
 
 ### Transfer Learning
 Train on [Market-1501](http://www.liangzheng.com.cn/Project/project_reid.html), Test on DukeMTMC-reID
