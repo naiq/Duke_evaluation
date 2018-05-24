@@ -8,6 +8,21 @@ We crop pedestrain images from the videos every 120 frames, yielding in total 36
 
 **As a result, we get 16,522 training images of 702 identities, 2,228 query images of the other 702 identities and 17,661 gallery images (702 ID + 408 distractor ID).** 
 
+## Table of contents
+* [DukeMTMC-reID](#dukemtmc-reid-description)
+    * [About Dataset](#about-dataset)
+    * [Dataset Licence](#dataset-licence)
+    * [Download Dataset](#download-dataset)
+    * [Dataset Insights](#dataset-insights)
+* [Evaluation](#evaluation)
+    * [Evaluation](#evaluation)
+    * [State-of-the-art Methods](#state-of-the-art)
+    * [Baseline](#baseline)
+* [Related Datasets](#dukemtmc-attribute)
+    * [DukeMTMC-attribute](#dukemtmc-attribute)
+    * [DukeMTMC-Pose](#dukemtmc-pose)
+* [Citation](#citation)
+
 ### About Dataset
 |File  | Description | 
 | --------   | -----  |
