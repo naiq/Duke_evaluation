@@ -1,6 +1,10 @@
 ## State-of-the-art
 If you notice any result that has not been included in this table, please connect [Zhedong Zheng](mailto:zdzheng12@gmail.com) without hesitation to add the method. You are welcomed!
  
+ * [Supervised Learning](#supervised-learning)
+ * [Transfer Learning](#transfer-learning)
+ 
+ ### Supervised Learning
 |Methods | Rank@1 | mAP| Reference|
 | -------- | ----- | ---- | ---- |
 |BoW+kissme | 25.13% | 12.17% | "[Scalable person re-identification: a benchmark](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7410490)", Liang Zheng, Liyue Shen, Lu Tian, Shengjin Wang, Jingdong Wang and Qi Tian, ICCV 2015 [**[project]**](http://www.liangzheng.org/Project/project_reid.html)|
