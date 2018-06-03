@@ -45,7 +45,7 @@ The direct download link is [Here](http://vision.cs.duke.edu/DukeMTMC/data/misc/
 You also can download the DukeMTMC-reID dataset from [GoogleDriver](https://drive.google.com/open?id=0B0VOCNYh8HeRdnBPa2ZWaVBYSVk) or ([BaiduYun](https://pan.baidu.com/s/1jS0XM7Var5nQGcbf9xUztw) password: bhbh).
 
 Some unzip tools on Windows may meet some problems. Please check that you have the following files after unzip:
-![](https://github.com/layumi/DukeMTMC-reID_evaluation/blob/master/PastedGraphic-1.png)
+![](https://github.com/layumi/DukeMTMC-reID_evaluation/blob/master/file.png)
 
 If download links are unavailable, please don't hesitate to contact me to update links. Thank you.
 
