@@ -1,7 +1,9 @@
 ## DukeMTMC-reID Description
 ![](https://github.com/layumi/Duke_evaluation/blob/master/DukeMTMC-reID_mosaic.jpg)
 
-DukeMTMC-reID [1] is a subset of the [DukeMTMC](http://vision.cs.duke.edu/DukeMTMC/) dataset [2] for image-based re-identification, in the format of the [Market-1501](http://www.liangzheng.com.cn/Project/project_reid.html) dataset. The original dataset contains 85-minute high-resolution videos from 8 different cameras. Hand-drawn pedestrain bounding boxes are available. 
+***What's new:*** Following the license on the [DukeMTMC](http://vision.cs.duke.edu/DukeMTMC/) website, we added a few modifications to the license terms. You may check the license in this repo. The dataset is released only for academic research. 
+
+[DukeMTMC-reID](#dukemtmc-reid-description) [1] is a subset of the [DukeMTMC](http://vision.cs.duke.edu/DukeMTMC/) dataset [2] for image-based re-identification, in the format of the [Market-1501](http://www.liangzheng.com.cn/Project/project_reid.html) dataset. The original dataset contains 85-minute high-resolution videos from 8 different cameras. Hand-drawn pedestrain bounding boxes are available. 
 
 We crop pedestrain images from the videos every 120 frames, yielding in total 36,411 bounding boxes with IDs. There are 1,404 identities appearing in more than two cameras and 408 identities (distractor ID) who appear in only one camera. We randomly select 702 IDs as the training set and the remaining 702 IDs as the testing set. In the testing set, we pick one query image for each ID in each camera and put the remaining images in the gallery. 
 
