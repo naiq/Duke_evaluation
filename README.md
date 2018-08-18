@@ -71,7 +71,7 @@ This picture is from [DukeMTMC Homepage](http://vision.cs.duke.edu/DukeMTMC/).
 (Python)We also provide an evaluation code in python. You may refer to [here](https://github.com/layumi/Person_reID_baseline_pytorch#evaluation).
 
 ### State-of-the-art
-We have summarized current state-of-the-art methods on DukeMTMC at [here](https://github.com/layumi/DukeMTMC-reID_evaluation/blob/master/State-of-the-art/README.md). If you notice any result that has not been included in this table, please connect [Zhedong Zheng](mailto:zdzheng12@gmail.com) without hesitation to add the method. You are welcomed!
+We have summarized current state-of-the-art methods on DukeMTMC at [here](https://github.com/layumi/DukeMTMC-reID_evaluation/blob/master/State-of-the-art/README.md). **If you notice any result that has not been included in this table, please connect [Zhedong Zheng](mailto:zdzheng12@gmail.com) without hesitation to add the method. You are welcomed!**
 
 ### Baseline
 We release our baseline training code and pretrained model in [[Matconvnet Version]](https://github.com/layumi/DukeMTMC-reID_baseline) and [[Pytorch Version]](https://github.com/layumi/Person_reID_baseline_pytorch). You can choose one of the two tools to conduct the experiment. Furthermore, you may try our new [Pedestrain Alignment Code](https://github.com/layumi/Pedestrian_Alignment) which combines person alignment with re-ID.
