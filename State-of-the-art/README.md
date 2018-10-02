@@ -17,7 +17,7 @@ Priorities are given to papers whose codes are published.
 |Verif + Identif | 68.9% | 49.3% | "[A Discriminatively Learned Cnn Embedding for Person Re-identification](https://arxiv.org/abs/1611.05666)",  Zhedong Zheng, Liang Zheng, and Yi Yang, TOMM 2017. [**[code]**](https://github.com/layumi/2016_person_re-ID)| 
 |APR | 70.69% | 51.88% | "[Improving person re-identification by attribute and identity learning](https://arxiv.org/abs/1703.07220)", Yutian Lin, Liang Zheng, Zhedong Zheng, Yu Wu, Yi Yang, arXiv:1703.07220 [[Attribute Dataset]](https://github.com/vana77/DukeMTMC-attribute) |
 |ACRN | 72.58% | 51.96% | "[Person Re-Identification by Deep Learning Attribute-Complementary Information](http://openaccess.thecvf.com/content_cvpr_2017_workshops/w17/papers/Schumann_Person_Re-Identification_by_CVPR_2017_paper.pdf)", Arne Schumann and Rainer Stiefelhagen, CVPR 2017 Workshop|
-|PAN | 71.59% | 51.51% |"[Pedestrian Alignment Network for Large-scale Person Re-identification](https://arxiv.org/abs/1707.00408)", Zhedong Zheng, Liang Zheng, Yi Yang, arXiv:1707.00408 [**[code]**](https://github.com/layumi/Pedestrian_Alignment)|
+|PAN | 71.59% | 51.51% |"[Pedestrian Alignment Network for Large-scale Person Re-identification](https://arxiv.org/abs/1707.00408)", Zhedong Zheng, Liang Zheng, Yi Yang, TCSVT 2018 [**[code]**](https://github.com/layumi/Pedestrian_Alignment)|
 |PAN+rerank | 75.94% | 66.74% | | 
 |FMN | 74.51% | 56.88% |"[Let Features Decide for Themselves: Feature Mask Network for Person Re-identification](https://arxiv.org/abs/1711.07155)", Guodong Ding, Salman Khan, Zhenmin Tang, Fatih Porikli, arXiv:1711.07155 | 
 |FMN+rerank | 79.52% | 72.79% | | 
