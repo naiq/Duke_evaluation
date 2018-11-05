@@ -46,7 +46,7 @@ Priorities are given to papers whose codes are published.
 ### Transfer Learning
 Train on [Market-1501](http://www.liangzheng.com.cn/Project/project_reid.html), Test on DukeMTMC-reID
 
-|Methods | Use DukeMTMC Training Data | Rank@1 | mAP| Reference|
+|Methods | Use DukeMTMC Training Data (without label)| Rank@1 | mAP| Reference|
 | -------- | ----- | ----- | ---- | ---- |
 | UMDL | :heavy_multiplication_x: | 18.5% | 7.3% | "[Unsupervised cross-dataset transfer learning for person re-identification](https://www.cv-foundation.org/openaccess/content_cvpr_2016/app/S06-34.pdf)", Peng Peixi, Tao Xiang, Yaowei Wang, Massimiliano Pontil, Shaogang Gong, Tiejun Huang, and Yonghong Tian, CVPR 2016 |
 | PUL | :heavy_check_mark: | 30.4% | 16.8% | "[Unsupervised Person Re-identification: Clustering and Fine-tuning](https://arxiv.org/abs/1705.10444)", Hehe Fan, Liang Zheng, Yi Yang, arXiv:1705.10444 [[code]](https://github.com/hehefan/Unsupervised-Person-Re-identification-Clustering-and-Fine-tuning)|
