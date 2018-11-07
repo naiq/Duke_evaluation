@@ -48,10 +48,11 @@ Train on [Market-1501](http://www.liangzheng.com.cn/Project/project_reid.html), 
 
 |Methods | Use DukeMTMC Training Data (without label)| Rank@1 | mAP| Reference|
 | -------- | ----- | ----- | ---- | ---- |
-| UMDL | :heavy_multiplication_x: | 18.5% | 7.3% | "[Unsupervised cross-dataset transfer learning for person re-identification](https://www.cv-foundation.org/openaccess/content_cvpr_2016/app/S06-34.pdf)", Peng Peixi, Tao Xiang, Yaowei Wang, Massimiliano Pontil, Shaogang Gong, Tiejun Huang, and Yonghong Tian, CVPR 2016 |
+| UMDL | :heavy_check_mark: | 18.5% | 7.3% | "[Unsupervised cross-dataset transfer learning for person re-identification](https://www.cv-foundation.org/openaccess/content_cvpr_2016/app/S06-34.pdf)", Peng Peixi, Tao Xiang, Yaowei Wang, Massimiliano Pontil, Shaogang Gong, Tiejun Huang, and Yonghong Tian, CVPR 2016 |
 | PUL | :heavy_check_mark: | 30.4% | 16.8% | "[Unsupervised Person Re-identification: Clustering and Fine-tuning](https://arxiv.org/abs/1705.10444)", Hehe Fan, Liang Zheng, Yi Yang, arXiv:1705.10444 [[code]](https://github.com/hehefan/Unsupervised-Person-Re-identification-Clustering-and-Fine-tuning)|
 |PN-GAN | :heavy_multiplication_x:| 29.9% | 15.8% | "[Pose-Normalized Image Generation for Person Re-identification](https://arxiv.org/pdf/1712.02225.pdf)" Xuelin Qian, Yanwei Fu, Tao Xiang, Wenxuan Wang, Jie Qiu, Yang Wu, Yu-Gang Jiang, Xiangyang Xue, ECCV 2018|
 |SPGAN | :heavy_check_mark: | 41.4% | 22.3% | "[Image-Image Domain Adaptation with Preserved Self-Similarity and Domain-Dissimilarity for Person Re-identification](https://arxiv.org/abs/1711.07027)", Weijian Deng, Liang Zheng, Guoliang Kang, Yi Yang, Qixiang Ye, Jianbin Jiao, CVPR 2018|
+|TJ-AIDL | :heavy_check_mark: | 44.3% | 23.0% | "[Transferable Joint Attribute-Identity Deep Learning for Unsupervised Person Re-Identification](http://www.eecs.qmul.ac.uk/~xiatian/papers/WangEtAl_CVPR2018.pdf)", Jingya Wang, Xiatian Zhu, Shaogang Gong, Wei Li, ECCV 2018 |
 |MMFA | :heavy_check_mark: | 45.3% | 24.7% | "[Multi-task Mid-level Feature Alignment Network for Unsupervised Cross-Dataset Person Re-Identification](https://arxiv.org/abs/1807.01440)", Shan Lin, Haoliang Li, Chang-Tsun Li, Alex Chichung Kot, BMVC 2018|
 |SPGAN+LMP | :heavy_check_mark: | 46.4% | 26.2% | |
 |HHL | :heavy_check_mark: | 46.9% | 27.2% | "[Generalizing A Person Retrieval Model Hetero- and Homogeneously](https://github.com/zhunzhong07/zhunzhong07.github.io/blob/master/paper/HHL.pdf)", Zhun Zhong, Liang Zheng, Shaozi Li, Yi Yang, ECCV 2018|
