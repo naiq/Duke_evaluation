@@ -46,7 +46,11 @@ Priorities are given to papers whose codes are published.
 ### Transfer Learning
 Train on [Market-1501](http://www.liangzheng.com.cn/Project/project_reid.html), Test on DukeMTMC-reID
 
-|Methods | Use DukeMTMC Training Data (without label)| Rank@1 | mAP| Reference|
+The primary motivation is that collecting ID annotation is relatively-expensive in human resource and time cost. 
+
+Is it possible to use less annotation on the unseen dataset, especially ID labels?
+
+|Methods | Use DukeMTMC Training Data (without ID label but may use the camera ID)| Rank@1 | mAP| Reference|
 | -------- | ----- | ----- | ---- | ---- |
 | UMDL | :heavy_check_mark: | 18.5% | 7.3% | "[Unsupervised cross-dataset transfer learning for person re-identification](https://www.cv-foundation.org/openaccess/content_cvpr_2016/app/S06-34.pdf)", Peng Peixi, Tao Xiang, Yaowei Wang, Massimiliano Pontil, Shaogang Gong, Tiejun Huang, and Yonghong Tian, CVPR 2016 |
 |Verif + Identif | :heavy_multiplication_x:|  25.7% | 12.8% | "[A Discriminatively Learned Cnn Embedding for Person Re-identification](https://arxiv.org/abs/1611.05666)",  Zhedong Zheng, Liang Zheng, and Yi Yang, TOMM 2017. [**[pytorch code]**](https://github.com/layumi/Person-reID-verification)| 
@@ -59,3 +63,4 @@ Train on [Market-1501](http://www.liangzheng.com.cn/Project/project_reid.html), 
 | HHL | :heavy_check_mark: | 46.9% | 27.2% | "[Generalizing A Person Retrieval Model Hetero- and Homogeneously](https://github.com/zhunzhong07/zhunzhong07.github.io/blob/master/paper/HHL.pdf)", Zhun Zhong, Liang Zheng, Shaozi Li, Yi Yang, ECCV 2018|
 | CFSM| :heavy_check_mark: | 49.8% | 27.3% | "[Disjoint Label Space Transfer Learning with Common Factorised Space](https://arxiv.org/abs/1812.02605)", Xiaobin Chang, Yongxin Yang, Tao Xiang, Timothy M. Hospedales, AAAI 2019|
 | ARN | :heavy_check_mark: | 60.2% | 33.4% | "[Adaptation and Re-Identification Network: An Unsupervised Deep Transfer Learning Approach to Person Re-Identification](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w6/Li_Adaptation_and_Re-Identification_CVPR_2018_paper.pdf)", Yu-Jhe Li, Fu-En Yang, Yen-Cheng Liu, Yu-Ying Yeh, Xiaofei Du, and Yu-Chiang Frank Wang, CVPR 2018 Workshop|
+| TAUDL | :heavy_check_mark: | 61.7% | 43.5% | "[Unsupervised Person Re-identification by Deep Learning Tracklet Association](http://openaccess.thecvf.com/content_ECCV_2018/papers/Minxian_Li_Unsupervised_Person_Re-identification_ECCV_2018_paper.pdf)", Minxian Li, Xiatian Zhu, and Shaogang Gong, ECCV 2018 |
