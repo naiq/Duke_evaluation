@@ -1,8 +1,6 @@
 clc;clear all;close all;
-addpath CM_Curve
+mkdir data;
 rank_size = 4000;
-im_mean = net.meta.normalization.averageImage;
-im_mean = imresize(im_mean,[224,224]);
 
 %% add necessary paths
 query_dir = '/data/uts521/zzd/DukeMTMC/query/';% query directory
@@ -92,7 +90,7 @@ for k = 1:nQuery
     % re-rank  select rank_size=1000 index
     index = index(1:rank_size);    
     
-    [ap(k), CMC(k, :)] = compute_AP_rerank(good_index, junk_index, index);% compute AP for single query
+    [ap(k), CMC(k, :)] = compute_AP(good_index, junk_index, index);% compute AP for single query
     fprintf('%d::%f\n',k,ap(k));
 end
 CMC = mean(CMC);
